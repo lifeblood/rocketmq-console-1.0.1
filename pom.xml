@@ -96,6 +96,10 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <!-- 工程主入口-->
+                    <mainClass>org.apache.rocketmq.console.App</mainClass>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>com.spotify</groupId>
