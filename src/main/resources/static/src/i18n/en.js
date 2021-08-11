@@ -84,5 +84,5 @@ var en = {
     "PASSWORD":"Password",
     "NO_DATA":"Don't have ",
     "SYSTEM":"SYSTEM",
-    "WELCOME":"Hi, welcome using RocketMQ Console"
+    "WELCOME":"Hi, welcome using RocketMQ Console 1.0.1"
 }
